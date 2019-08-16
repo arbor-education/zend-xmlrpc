@@ -7,13 +7,8 @@
         "zendframework",
         "xmlrpc"
     ],
-    "support": {
-        "docs": "https://docs.zendframework.com/zend-xmlrpc/",
-        "issues": "https://github.com/zendframework/zend-xmlrpc/issues",
-        "source": "https://github.com/zendframework/zend-xmlrpc",
-        "rss": "https://github.com/zendframework/zend-xmlrpc/releases.atom",
-        "chat": "https://zendframework-slack.herokuapp.com",
-        "forum": "https://discourse.zendframework.com/c/questions/components"
+    "provide": {
+        "zendframework/zend-xmlrpc": "2.5.2"
     },
     "require": {
         "php": "^5.6 || ^7.0",
