@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-xmlrpc",
+    "name": "arbor-education/zend-xmlrpc",
     "description": "Fully-featured XML-RPC server and client implementations",
     "license": "BSD-3-Clause",
     "keywords": [
