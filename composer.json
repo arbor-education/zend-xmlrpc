@@ -7,7 +7,7 @@
         "zendframework",
         "xmlrpc"
     ],
-    "provide": {
+    "replace": {
         "zendframework/zend-xmlrpc": "2.5.2"
     },
     "require": {
